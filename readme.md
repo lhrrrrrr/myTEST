@@ -23,3 +23,4 @@ DCCAE:
 
 * [DeepCCA](https://github.com/Michaelvll/DeepCCA)
 * [On Deep Multi-View Representation Learning](http://proceedings.mlr.press/v37/wangb15.pdf)
+* 
